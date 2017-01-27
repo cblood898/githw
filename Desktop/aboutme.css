@@ -1,0 +1,18 @@
+/*Entire HTML*/
+
+html {
+background: linear-gradient(to right, yellow, gray);
+font-size: 22px;
+text-align: center;
+color: green;
+font-family: Arial;
+}
+img{
+  float:left;
+  border: 2px solid black;
+  margin: 4px
+  padding: 4px
+}
+li{
+  list-style-type: none;
+}
